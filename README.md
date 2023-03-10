@@ -23,7 +23,7 @@ with a purpose to serve.
 ## Vanessa Lobo
 github: https://github.com/xenoastra
 
-linkedin: https://www.linkedin.com/in/vanessa-lobo-407158200/
+linkedin: https://www.linkedin.com/in/vanessa-lobo878/
 
 ## Akshara Debnath
 github: https://github.com/akshxrx
